@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "656ffbdb1ef43b2aea40eea6"
+  },
+  "__v": 0,
+  "admin_avatar": "/images_static/avatar_admin.jpg",
+  "admin_name": "admin",
+  "admin_password": "admin",
+  "updatedAt": {
+    "$date": "2024-08-18T16:25:40.000Z"
+  }
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "66b97934418b2b8fec2326ee"
+  },
+  "topic_name": "Animal",
+  "topic_image": "topic_image_1723431220920.jpg",
+  "topic_description": "This topic covers signs representing various animals, from household pets like dogs and cats to wild animals such as lions, giraffes, and birds. The signs in this category often mimic the distinctive characteristics or behaviors of each animal, such as clawing motions for a cat or flapping hands to represent a bird's wings.",
+  "createdAt": {
+    "$date": "2024-08-12T02:53:40.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T02:53:40.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9794b418b2b8fec2326f1"
+  },
+  "topic_name": "Alphabet",
+  "topic_image": "topic_image_1723431243164.jpg",
+  "topic_description": "This topic focuses on signs representing each letter of the alphabet. Each sign corresponds to a letter and is typically used for spelling names, abbreviations, or new words. This is a foundational topic that helps learners become familiar with sign language and can be combined with other topics to create simple words and sentences.",
+  "createdAt": {
+    "$date": "2024-08-12T02:54:03.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T02:54:03.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b979a8418b2b8fec2326f4"
+  },
+  "topic_name": "Transportation",
+  "topic_image": "topic_image_1723431336399.jpg",
+  "topic_description": "This topic deals with signs representing various modes of transportation and actions related to movement. The signs may include vehicles like cars, buses, bicycles, airplanes, and trains. Additionally, there are signs for actions such as driving, walking, or getting on/off a vehicle. This topic is useful for describing daily commuting scenarios.",
+  "createdAt": {
+    "$date": "2024-08-12T02:55:36.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T02:55:36.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b979bf418b2b8fec2326f8"
+  },
+  "topic_name": "Communication",
+  "topic_image": "topic_image_1723431359381.jpg",
+  "topic_description": "This topic focuses on signs representing different forms of communication such as speaking, writing, listening, and reading. The signs in this category may also include the use of communication devices like phones, computers, and email. This is an important topic for expressing everyday social interactions and work-related situations.",
+  "createdAt": {
+    "$date": "2024-08-12T02:55:59.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T02:55:59.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b979ed418b2b8fec2326fb"
+  },
+  "topic_name": "Activities",
+  "topic_image": "topic_image_1723431405696.jpg",
+  "topic_description": "This topic includes signs representing daily activities, sports, recreation, and hobbies. The signs might cover activities like reading a book, watching a movie, playing sports, or attending events. This topic helps learners express the activities they participate in or plan to engage in.",
+  "createdAt": {
+    "$date": "2024-08-12T02:56:45.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T02:56:45.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b97a1d418b2b8fec2326fe"
+  },
+  "topic_name": "Occupation",
+  "topic_image": "topic_image_1723431453085.jpg",
+  "topic_description": "This topic covers signs representing various professions and jobs, from doctors and teachers to engineers and artists. The signs often mimic the tools, actions, or attire associated with each occupation. This topic is useful for describing oneself, others, or discussing work and professions in society.",
+  "createdAt": {
+    "$date": "2024-08-12T02:57:33.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T02:57:33.087Z"
+  },
+  "__v": 0
+}]

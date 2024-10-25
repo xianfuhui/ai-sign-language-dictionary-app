@@ -1,0 +1,1156 @@
+[{
+  "_id": {
+    "$oid": "66ba057c7927640e92d45023"
+  },
+  "vocabulary_name": "Cat",
+  "vocabulary_description": "A small animal with soft fur, often kept as a pet. Cats are good hunters and usually very playful.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467132895.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:52:12.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:52:12.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba05aa7927640e92d4502c"
+  },
+  "vocabulary_name": "Cow",
+  "vocabulary_description": "A large animal typically raised for milk and meat. Cows are one of the most important livestock in agriculture.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467178311.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:52:58.317Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:52:58.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba05c47927640e92d45035"
+  },
+  "vocabulary_name": "Horse",
+  "vocabulary_description": "A large and strong animal often used in farming, riding, and racing.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467204416.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:53:24.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:53:24.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba06237927640e92d4503e"
+  },
+  "vocabulary_name": "Chicken",
+  "vocabulary_description": "A common poultry animal usually raised for eggs and meat. Chickens can lay eggs daily.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467299253.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:54:59.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:54:59.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba063d7927640e92d45047"
+  },
+  "vocabulary_name": "Rabbit",
+  "vocabulary_description": "A small animal with soft fur and long ears. Rabbits are herbivores and are often kept as pets.",
+  "vocabulary_difficulty_level": "5",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467325648.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:55:25.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:55:25.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba06557927640e92d45050"
+  },
+  "vocabulary_name": "Crab",
+  "vocabulary_description": "A marine animal with two large claws and a hard shell. Crabs usually live in salty or brackish water.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467349513.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:55:49.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:55:49.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba066b7927640e92d45059"
+  },
+  "vocabulary_name": "Fish",
+  "vocabulary_description": "An aquatic animal with scales that swims using fins. Fish are an important food source in many cultures.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467371250.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:56:11.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:56:11.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba068b7927640e92d45066"
+  },
+  "vocabulary_name": "Spider",
+  "vocabulary_description": "An arthropod with eight legs, often spinning webs to catch prey. Spiders come in various sizes and colors.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467403461.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:56:43.465Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:56:43.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba06cc7927640e92d4506f"
+  },
+  "vocabulary_name": "Snake",
+  "vocabulary_description": "A legless reptile with a long body that moves by slithering. Snakes can be venomous or non-venomous.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467468986.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:57:48.992Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:57:48.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba073d7927640e92d45078"
+  },
+  "vocabulary_name": "Car",
+  "vocabulary_description": "A four-wheeled vehicle typically powered by a gasoline or electric engine, used for transporting people or goods.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467581355.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T12:59:41.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:59:41.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba07597927640e92d45081"
+  },
+  "vocabulary_name": "Bus",
+  "vocabulary_description": "A large public transport vehicle often used to carry many people along fixed routes.",
+  "vocabulary_difficulty_level": "5",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467609550.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:00:09.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:00:09.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba07727927640e92d4508a"
+  },
+  "vocabulary_name": "Train",
+  "vocabulary_description": "A vehicle that runs on tracks, commonly used for long-distance travel or freight transport.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467634149.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:00:34.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:00:34.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba07847927640e92d45093"
+  },
+  "vocabulary_name": "Airplane",
+  "vocabulary_description": "A flying vehicle typically used for travel between cities or countries.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467652719.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:00:52.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:00:52.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba07a07927640e92d4509c"
+  },
+  "vocabulary_name": "Bicycle",
+  "vocabulary_description": "A two-wheeled vehicle usually powered by pedaling.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467680060.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:01:20.064Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:01:20.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08167927640e92d450a5"
+  },
+  "vocabulary_name": "Ship",
+  "vocabulary_description": "A large vessel that moves on water, often used for carrying goods or passengers.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467798096.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:03:18.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:03:18.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08407927640e92d450ae"
+  },
+  "vocabulary_name": "Motorcycle",
+  "vocabulary_description": "A two-wheeled motorized vehicle with a higher speed than a bicycle.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467840554.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:04:00.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:04:00.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08697927640e92d450b7"
+  },
+  "vocabulary_name": "Hello",
+  "vocabulary_description": "A common greeting, usually used at the start of a conversation.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467881037.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:04:41.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:04:41.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08867927640e92d450c0"
+  },
+  "vocabulary_name": "Goodbye",
+  "vocabulary_description": "A farewell phrase, typically used at the end of a conversation or when leaving a place.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467910579.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:05:10.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:05:10.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08ad7927640e92d450cd"
+  },
+  "vocabulary_name": "Thank You",
+  "vocabulary_description": "A way to express gratitude or appreciation to someone.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467949534.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:05:49.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:05:49.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08c17927640e92d450d6"
+  },
+  "vocabulary_name": "Please",
+  "vocabulary_description": "A polite word used to request or ask someone to do something.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467969566.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:06:09.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:06:09.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08d87927640e92d450df"
+  },
+  "vocabulary_name": "Sorry",
+  "vocabulary_description": "An apology phrase expressing regret for an action.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723467992565.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:06:32.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:06:32.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba09917927640e92d450f4"
+  },
+  "vocabulary_name": "Yes",
+  "vocabulary_description": "An affirmative word indicating agreement or acceptance.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468177417.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:09:37.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:09:37.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba09a47927640e92d450fd"
+  },
+  "vocabulary_name": "No",
+  "vocabulary_description": "A negative word indicating refusal or disagreement.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468196761.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:09:56.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:09:56.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba09bd7927640e92d45106"
+  },
+  "vocabulary_name": "What",
+  "vocabulary_description": "A question word often used to ask for information about something.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468221816.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:10:21.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:10:21.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba09d77927640e92d4510f"
+  },
+  "vocabulary_name": "Where",
+  "vocabulary_description": "A question word used to ask for information about a location or place.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468247153.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:10:47.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:10:47.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba09ea7927640e92d45118"
+  },
+  "vocabulary_name": "How",
+  "vocabulary_description": "A question word often used to ask for information about how something is done.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468266888.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:11:06.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:11:06.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba09fe7927640e92d45121"
+  },
+  "vocabulary_name": "Why",
+  "vocabulary_description": "A question word used to ask for information about the reason or cause.",
+  "vocabulary_difficulty_level": "5",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468286387.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:11:26.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:11:26.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0a2b7927640e92d4512a"
+  },
+  "vocabulary_name": "Eat",
+  "vocabulary_description": "The act of putting food into the mouth and consuming it to provide energy for the body.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468331229.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:12:11.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:12:11.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0a507927640e92d45133"
+  },
+  "vocabulary_name": "Drink",
+  "vocabulary_description": "The act of consuming water or other beverages to maintain life and health.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468368151.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:12:48.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:12:48.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0a637927640e92d4513c"
+  },
+  "vocabulary_name": "Sleep",
+  "vocabulary_description": "A natural rest state of the body and mind, usually occurring at night.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468387089.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:13:07.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:13:07.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0a7b7927640e92d45145"
+  },
+  "vocabulary_name": "Work",
+  "vocabulary_description": "An activity or task performed to achieve a goal or earn money.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468411855.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:13:31.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:13:31.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0aa27927640e92d4514e"
+  },
+  "vocabulary_name": "Dance",
+  "vocabulary_description": "The act of moving the body rhythmically to music, often to express emotions or for entertainment.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468450672.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:14:10.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:14:10.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0ac17927640e92d45157"
+  },
+  "vocabulary_name": "Cook",
+  "vocabulary_description": "The act of preparing and cooking food.",
+  "vocabulary_difficulty_level": "5",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468481381.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:14:41.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:14:41.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0ad47927640e92d45160"
+  },
+  "vocabulary_name": "Swim",
+  "vocabulary_description": "The act of moving in water using the arms and legs.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468500871.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:15:00.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:15:00.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0af27927640e92d45169"
+  },
+  "vocabulary_name": "Draw",
+  "vocabulary_description": "The act of creating images or designs using a pen, pencil, or other drawing tools.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468530306.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:15:30.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:15:30.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b047927640e92d45172"
+  },
+  "vocabulary_name": "Sing",
+  "vocabulary_description": "The act of producing sound in rhythm and melody, often to express music.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468548532.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:15:48.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:15:48.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b177927640e92d4517b"
+  },
+  "vocabulary_name": "Relax",
+  "vocabulary_description": "The act of resting or unwinding to reduce stress and fatigue.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468567346.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:16:07.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:16:07.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b307927640e92d45184"
+  },
+  "vocabulary_name": "Teacher",
+  "vocabulary_description": "A person who instructs and imparts knowledge to students.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468592684.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:16:32.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:16:32.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b407927640e92d4518d"
+  },
+  "vocabulary_name": "Docter",
+  "vocabulary_description": "A healthcare professional responsible for caring for people's health and treating illnesses.",
+  "vocabulary_difficulty_level": "5",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468608003.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:16:48.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:16:48.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b4e7927640e92d45196"
+  },
+  "vocabulary_name": "Chef",
+  "vocabulary_description": "A professional person who specializes in preparing and cooking food.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468622775.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:17:02.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:17:02.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b6b7927640e92d4519f"
+  },
+  "vocabulary_name": "A",
+  "vocabulary_description": "The first letter of the English alphabet. It is often used to start words and proper names.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468651176.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:17:31.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:17:31.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b817927640e92d451a8"
+  },
+  "vocabulary_name": "B",
+  "vocabulary_description": "The second letter of the English alphabet. Commonly used in words that refer to objects and animals.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468673578.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:17:53.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:17:53.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0b987927640e92d451b1"
+  },
+  "vocabulary_name": "C",
+  "vocabulary_description": "The third letter of the English alphabet. It can be pronounced differently, such as \"k\" in \"cat\" or \"s\" in \"city.\"",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468696183.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:18:16.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:18:16.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0bad7927640e92d451ba"
+  },
+  "vocabulary_name": "D",
+  "vocabulary_description": "The fourth letter of the English alphabet. Often used in words related to actions or descriptions.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468717483.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:18:37.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:18:37.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0bc77927640e92d451c3"
+  },
+  "vocabulary_name": "E",
+  "vocabulary_description": "The fifth letter of the English alphabet and the most common vowel. It appears in many words.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468743096.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:19:03.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:19:03.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0bec7927640e92d451cc"
+  },
+  "vocabulary_name": "F",
+  "vocabulary_description": "The sixth letter of the English alphabet. Frequently found at the beginning of words related to emotions or items.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468780920.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:19:40.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:19:40.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c007927640e92d451d5"
+  },
+  "vocabulary_name": "G",
+  "vocabulary_description": "The seventh letter of the English alphabet. It can be pronounced hard like \"g\" in \"go\" or soft like \"j\" in \"giant.\"",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468800505.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:20:00.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:20:00.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c177927640e92d451de"
+  },
+  "vocabulary_name": "H",
+  "vocabulary_description": "The eighth letter of the English alphabet. Often used at the beginning of words related to people or actions.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468823812.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:20:23.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:20:23.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c267927640e92d451e7"
+  },
+  "vocabulary_name": "I",
+  "vocabulary_description": "The ninth letter and a vowel in the English alphabet. Commonly appears in words that express self or emotions.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468838158.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:20:38.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:20:38.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c367927640e92d451f0"
+  },
+  "vocabulary_name": "J",
+  "vocabulary_description": "The tenth letter of the English alphabet. Frequently used in words related to play or occupations.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468854981.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:20:54.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:20:54.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c477927640e92d451f9"
+  },
+  "vocabulary_name": "K",
+  "vocabulary_description": "The eleventh letter of the English alphabet. Often found at the beginning of words related to actions or items.",
+  "vocabulary_difficulty_level": "1",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468871814.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:21:11.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:21:11.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c5c7927640e92d45202"
+  },
+  "vocabulary_name": "L",
+  "vocabulary_description": "The twelfth letter of the English alphabet. Commonly used in words that describe emotions or places.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468892811.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:21:32.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:21:32.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c6e7927640e92d4520b"
+  },
+  "vocabulary_name": "M",
+  "vocabulary_description": "The thirteenth letter of the English alphabet. Frequently appears in words related to family or objects.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468910500.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:21:50.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:21:50.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c837927640e92d45214"
+  },
+  "vocabulary_name": "N",
+  "vocabulary_description": "The fourteenth letter of the English alphabet. Often used in words that describe states or items.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468931220.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:22:11.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:22:11.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0c937927640e92d4521d"
+  },
+  "vocabulary_name": "O",
+  "vocabulary_description": "The fifteenth letter and a vowel in the English alphabet. Often appears in words that describe shapes or objects.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468947456.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:22:27.463Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:22:27.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0ca87927640e92d45226"
+  },
+  "vocabulary_name": "P",
+  "vocabulary_description": "The sixteenth letter of the English alphabet. Commonly used in words related to professions or objects.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468968941.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:22:48.945Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:22:48.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0cc67927640e92d4522f"
+  },
+  "vocabulary_name": "Q",
+  "vocabulary_description": "The seventeenth letter of the English alphabet. It usually accompanies the letter \"u\" in words related to questions or objects.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723468998760.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:23:18.772Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:23:18.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0ce57927640e92d45238"
+  },
+  "vocabulary_name": "R",
+  "vocabulary_description": "The eighteenth letter of the English alphabet. Often used in words that describe colors or actions.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469029641.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:23:49.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:23:49.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0cf87927640e92d45241"
+  },
+  "vocabulary_name": "S",
+  "vocabulary_description": "The nineteenth letter of the English alphabet. Frequently appears in words that describe emotions or items.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469048250.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:24:08.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:24:08.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d0a7927640e92d4524a"
+  },
+  "vocabulary_name": "T",
+  "vocabulary_description": "The twentieth letter of the English alphabet. Commonly used in words that refer to time or places.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469066907.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:24:26.911Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:24:26.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d347927640e92d45253"
+  },
+  "vocabulary_name": "U",
+  "vocabulary_description": "The twenty-first letter and a vowel in the English alphabet. Often appears in words that describe directions or objects.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469108576.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:25:08.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:25:08.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d4f7927640e92d4525c"
+  },
+  "vocabulary_name": "V",
+  "vocabulary_description": "The twenty-second letter of the English alphabet. Frequently used in words related to professions or objects.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469135483.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:25:35.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:25:35.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d677927640e92d45265"
+  },
+  "vocabulary_name": "W",
+  "vocabulary_description": "The twenty-third letter of the English alphabet. Often appears at the beginning of words related to weather or actions.",
+  "vocabulary_difficulty_level": "2",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469159372.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:25:59.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:25:59.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d747927640e92d4526e"
+  },
+  "vocabulary_name": "X",
+  "vocabulary_description": "The twenty-fourth letter of the English alphabet. Commonly found in words related to medicine or mathematics.",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469172498.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:26:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:26:12.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d887927640e92d45277"
+  },
+  "vocabulary_name": "Y",
+  "vocabulary_description": "The twenty-fifth letter of the English alphabet. Frequently appears in words that describe states or emotions.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469192637.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:26:32.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:26:32.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba0d967927640e92d45280"
+  },
+  "vocabulary_name": "Z",
+  "vocabulary_description": "The twenty-sixth and final letter of the English alphabet. Commonly used in words related to animals or actions.",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_1723469206683.mp4",
+  "vocabulary_recommendation_status": 1,
+  "createdAt": {
+    "$date": "2024-08-12T13:26:46.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:26:46.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb5462cb0d0e5ec4ba17e3"
+  },
+  "vocabulary_name": "Test Custom Vocabulary",
+  "vocabulary_description": "Test Custom Vocabulary",
+  "vocabulary_difficulty_level": "3",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_66b988d0d568d3243f9113de_1723552866748.mp4",
+  "vocabulary_recommendation_status": 3,
+  "createdAt": {
+    "$date": "2024-08-13T12:41:06.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T12:42:31.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c303a0aad444c0e2a2fd20"
+  },
+  "vocabulary_name": "Huy",
+  "vocabulary_description": "huy",
+  "vocabulary_difficulty_level": "4",
+  "vocabulary_video_link": "src\\public\\videos\\vocabulary_video_link_66b988d0d568d3243f9113de_1724056480402.mp4",
+  "vocabulary_recommendation_status": 2,
+  "createdAt": {
+    "$date": "2024-08-19T08:34:40.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T08:34:40.410Z"
+  },
+  "__v": 0
+}]

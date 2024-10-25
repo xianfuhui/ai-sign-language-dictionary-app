@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66bb7cbfcb0d0e5ec4ba18c1"
+  },
+  "vocabulary": {
+    "$oid": "66ba05c47927640e92d45035"
+  },
+  "user": {
+    "$oid": "66b988d0d568d3243f9113de"
+  },
+  "createdAt": {
+    "$date": "2024-08-13T15:33:19.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T15:33:19.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c301afaad444c0e2a2fcf8"
+  },
+  "vocabulary": {
+    "$oid": "66ba08867927640e92d450c0"
+  },
+  "user": {
+    "$oid": "66b988d0d568d3243f9113de"
+  },
+  "createdAt": {
+    "$date": "2024-08-19T08:26:23.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T08:26:23.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c303a0aad444c0e2a2fd24"
+  },
+  "vocabulary": {
+    "$oid": "66c303a0aad444c0e2a2fd20"
+  },
+  "user": {
+    "$oid": "66b988d0d568d3243f9113de"
+  },
+  "createdAt": {
+    "$date": "2024-08-19T08:34:40.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T08:34:40.418Z"
+  },
+  "__v": 0
+}]

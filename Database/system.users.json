@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "66b988d0d568d3243f9113de"
+  },
+  "user_avatar": "/images/user_avatar_66b988d0d568d3243f9113de_1723549303309.jpg",
+  "user_name": "tphuyvvk",
+  "user_password": "$2b$10$f003HWx714EBVI1M3F4MqeYWzmdRxyRhko7PFFIoa2BmbwbMW8Q2q",
+  "user_full_name": "Tiên Phú Huy",
+  "user_date_of_birth": {
+    "$date": "2002-06-29T00:00:00.000Z"
+  },
+  "user_phone_number": "0857751234",
+  "user_email": "tphuyvvk@gmail.com",
+  "user_status": true,
+  "check_email_confirmation": true,
+  "email_verification_token": "1e1f45c9826d0b373f02037587d79df2094f55c2",
+  "email_verification_token_expiration": {
+    "$date": "2024-08-12T04:01:16.394Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-12T04:00:16.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T11:41:43.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb4308e04b8030321c76b2"
+  },
+  "user_avatar": "/images_static/avatar_user.jpg",
+  "user_name": "doraemondevops",
+  "user_password": "$2b$10$f003HWx714EBVI1M3F4MqeYWzmdRxyRhko7PFFIoa2BmbwbMW8Q2q",
+  "user_full_name": "Nguyễn Tiến Phát",
+  "user_date_of_birth": null,
+  "user_phone_number": null,
+  "user_email": "doraemondevops@gmail.com",
+  "user_status": true,
+  "check_email_confirmation": true,
+  "email_verification_token": "9f00804604f8f0e59c6f2ae70344b46d5f7eb0e8",
+  "email_verification_token_expiration": {
+    "$date": "2024-08-14T06:03:35.027Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-13T11:27:04.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T16:23:08.873Z"
+  },
+  "__v": 0
+}]
