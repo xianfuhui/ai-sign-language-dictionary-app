@@ -39,9 +39,8 @@ aa
 
 ---
 
-## Deploy
-					
-					Local Deployment (Offline)
+## Deploy	
+**Local Deployment (Offline)**
 Prepare - Download the application to your device
 	Platform: Node.js
 	Database: MongoDB Compass
@@ -63,8 +62,7 @@ Steps to Local Deployment:
 			Password: admin
 		Open a web browser and navigate to user site: http://localhost:3000/user to register and login for user
 
-
-					Production Deployment (Online)
+**Production Deployment (Online)**
 Prepare – Access 3 Website applications
 	Github: https://github.com/
 	Render: https://render.com/
