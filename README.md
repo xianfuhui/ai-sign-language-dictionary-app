@@ -92,13 +92,17 @@ structured way.
 
 ## Screenshots
 
-### Home Page
+### User Page
 
-![Home](images/home.png)
+![User](docs/images/user.png)
 
 ### Gesture Recognition
 
-![Feature](images/feature.png)
+![Feature](docs/images/ai.png)
+
+### Admin Page
+
+![Admin](docs/images/admin.png)
 
 ------------------------------------------------------------------------
 
