@@ -21,9 +21,14 @@ structured way.
 
 ## Technologies Used
 
-**Backend** - Node.js
+**Backend** 
+- Node.js
 
-**Frontend** - EJS - JavaScript - HTML - CSS
+**Frontend** 
+- EJS
+- JavaScript
+- HTML
+- CSS
 
 **Database** - MongoDB
 
