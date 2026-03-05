@@ -1,4 +1,4 @@
-					Local Deployment (Offline
+					Local Deployment (Offline)
 Prepare - Download the application to your device
 	Platform: Node.js
 	Database: MongoDB Compass
