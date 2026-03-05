@@ -94,15 +94,15 @@ structured way.
 
 ### User Page
 
-![User](docs/images/user.png)
+![User](docs/images/user.jpg)
 
 ### Gesture Recognition
 
-![Feature](docs/images/ai.png)
+![Feature](docs/images/ai.jpg)
 
 ### Admin Page
 
-![Admin](docs/images/admin.png)
+![Admin](docs/images/admin.jpg)
 
 ------------------------------------------------------------------------
 
