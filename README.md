@@ -23,7 +23,7 @@ structured way.
 
 **Backend** - Node.js
 
-**Frontend** - JavaScript - HTML - CSS
+**Frontend** - EJS - JavaScript - HTML - CSS
 
 **Database** - MongoDB
 
