@@ -1,3 +1,46 @@
+# ai-sign-language-dictionary-app
+
+## Introduction
+aa
+
+---
+
+## Technologies Used
+
+**Backend**
+- 
+
+**Frontend**
+- 
+
+**Database**
+- 
+
+**Other Tools**
+- 
+
+---
+
+## Features
+- Feature 1  
+- Feature 2  
+- Feature 3  
+- Feature 4  
+
+---
+
+## Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Feature Page
+![Feature](images/feature.png)
+
+---
+
+## Deploy
+					
 					Local Deployment (Offline)
 Prepare - Download the application to your device
 	Platform: Node.js
