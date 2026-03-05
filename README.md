@@ -1,84 +1,141 @@
-# ai-sign-language-dictionary-app
+# AI Sign Language Dictionary App
 
 ## Introduction
-aa
 
----
+The **AI Sign Language Dictionary App** is a web-based application
+designed to support learning, translation, and recognition of sign
+language gestures.\
+The system allows users to search for sign language meanings and explore
+gesture-based communication through an interactive interface.
+
+The application integrates **Artificial Intelligence** to recognize hand
+gestures and translate them into corresponding meanings. This helps
+improve accessibility and communication for learners interested in sign
+language.
+
+The platform provides both **learning and reference tools**, enabling
+users to understand gestures quickly while practicing sign language in a
+structured way.
+
+------------------------------------------------------------------------
 
 ## Technologies Used
 
-**Backend**
-- 
+**Backend** - Node.js
 
-**Frontend**
-- 
+**Frontend** - JavaScript - HTML - CSS
 
-**Database**
-- 
+**Database** - MongoDB
 
-**Other Tools**
-- 
-
----
+------------------------------------------------------------------------
 
 ## Features
-- Feature 1  
-- Feature 2  
-- Feature 3  
-- Feature 4  
 
----
+-   Sign language gesture dictionary
+-   AI-based hand gesture recognition
+-   Instant gesture translation
+-   User learning interface for exploring sign meanings
+-   Admin system for managing gesture data
+-   User account registration and login
+
+------------------------------------------------------------------------
 
 ## Screenshots
 
 ### Home Page
+
 ![Home](images/home.png)
 
-### Feature Page
+### Gesture Recognition
+
 ![Feature](images/feature.png)
 
----
+------------------------------------------------------------------------
 
-## Deploy	
-**Local Deployment (Offline)**
-Prepare - Download the application to your device
-	Platform: Node.js
-	Database: MongoDB Compass
-Steps to Local Deployment:
-	Step 1 - Download and extract the application files to your local device
-	Step 2 - Configure Environment Variables: Open the .env file located in the "source/Source" folder and edit the file with the following settings
-	Explanation of .env variables:
-		MONGO_URI: The URI for connecting to your MongoDB database, configured to connect to a local MongoDB server on port 27017 and use the system database.
-		PORT: The port number on which the application will listen for incoming connections, set to 3000 in this configuration.
-		KEY: A secret key used for security purposes within the application.
-		USER_EMAIL and PASS_EMAIL: Email credentials used for account management. Ensure that PASS_EMAIL is securely managed as it might be obfuscated or encrypted.
-	Step 3 - Install Dependencies: Run the following commands to install the necessary dependencies and start the application:
-		npm install
-		npm start
-	Step 4 – Open the MongoDB Compass application: Import the JSON files from the "source/Database" folder into the database "system"
-	Step 5 - Access the Application
-		Open a web browser and navigate to admin site: http://localhost:3000/admin/login and login using the default account credentials:
-			Username: admin
-			Password: admin
-		Open a web browser and navigate to user site: http://localhost:3000/user to register and login for user
+## Local Deployment (Offline)
 
-**Production Deployment (Online)**
-Prepare – Access 3 Website applications
-	Github: https://github.com/
-	Render: https://render.com/
-	MongoDB Atlas: https://www.mongodb.com/
-Steps to Production Deployment:
-	Step 1 - Go to "MongoDB Atlas" -> Go to "Database Access" -> Create user information to access the database
-	Step 2 - Go to "Network Access" -> Create Network Access to Access Database
-	Step 3 - Go to "Database" -> click "Browse Collections"
- 	Step 4 - Insert data from the "Database" folder and the same folder as the "Source" folder.
- 	Step 5 - Go to "Database" -> click "Connect"
-	Step 6 - Choose "Drivers"
-	Step 7 - Copy the connection link to include in the connection code to the database
-	Step 8 - Go to the .env file in "Source" and replace the "MONGO_URI" path you just copied to connect to MongoDB Atlas
- 	Step 9 - Push the source code to "GitHub"
- 	Step 10 - Go to "Render" -> and select "Deploy a Web Service"
-	Step 11 - Select the repository that has pushed the code
-	Step 12 - Configure
-	Step 13 - Deploy the website service
-	Step 14 - Images of the website successfully deployed
+### Requirements
+
+-   Node.js
+-   MongoDB Compass
+
+### Step 1 -- Download Project
+
+Download and extract the application files to your local machine.
+
+### Step 2 -- Configure Environment Variables
+
+Example `.env` configuration:
+
+    MONGO_URI=mongodb://127.0.0.1:27017/system
+    PORT=3000
+    KEY=your_secret_key
+    USER_EMAIL=your_email
+    PASS_EMAIL=your_email_password
+
+Explanation:
+
+-   **MONGO_URI**: MongoDB connection string to the local database.
+-   **PORT**: Application running port (default: 3000).
+-   **KEY**: Secret key used for application security.
+-   **USER_EMAIL / PASS_EMAIL**: Email credentials used for
+    account-related features.
+
+### Step 3 -- Install Dependencies
+
+    npm install
+
+### Step 4 -- Start Application
+
+    npm start
+
+### Step 5 -- Import Database
+
+Open **MongoDB Compass** and import JSON files from the
+`source/Database` folder into the database **system**.
+
+### Step 6 -- Access the Application
+
+Admin site: http://localhost:3000/admin/login
+
+Default admin account: Username: admin\
+Password: admin
+
+User site: http://localhost:3000/user
+
+------------------------------------------------------------------------
+
+## Production Deployment (Online)
+
+### Required Platforms
+
+-   GitHub: https://github.com/
+-   Render: https://render.com/
+-   MongoDB Atlas: https://www.mongodb.com/
+
+### Deployment Steps
+
+1.  Go to **MongoDB Atlas → Database Access** and create a database
+    user.
+2.  Go to **Network Access** and allow network access.
+3.  Open **Database → Browse Collections**.
+4.  Insert data from the **Database** folder.
+5.  Click **Connect**.
+6.  Choose **Drivers**.
+7.  Copy the MongoDB connection string.
+8.  Replace the `MONGO_URI` value in the `.env` file with the Atlas
+    connection string.
+9.  Push the source code to **GitHub**.
+10. Go to **Render** and select **Deploy a Web Service**.
+11. Select the repository containing the project.
+12. Configure deployment settings.
+13. Deploy the web service.
+14. Verify the website after deployment.
+
+------------------------------------------------------------------------
+
+## Author
+
+Name: Tien Phu Huy\
+Email: tphuyvvk@gmail.com\
+GitHub: https://github.com/xianfuhui
